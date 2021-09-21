@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGYkDE/S1x1B8zua18vw4rv6eWfJc7ND80YUdxuXkQk0q32JeiZvGBFnzgwsJsgSVp5LaWbbCN6dt7+I5TselQ==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\SourceCode\\NetCore\\2021-09\\Project.Api\\Project.Api.Core\\Project.Api.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Payne\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Payne\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
+    "C:\\Users\\Payne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Payne\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\Payne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

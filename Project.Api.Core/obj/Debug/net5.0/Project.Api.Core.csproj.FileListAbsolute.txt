@@ -1,0 +1,12 @@
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\bin\Debug\net5.0\Project.Api.Core.deps.json
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\bin\Debug\net5.0\Project.Api.Core.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\bin\Debug\net5.0\ref\Project.Api.Core.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\bin\Debug\net5.0\Project.Api.Core.pdb
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.csproj.AssemblyReference.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.AssemblyInfoInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.AssemblyInfo.cs
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.csproj.CoreCompileInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\ref\Project.Api.Core.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Api.Core\obj\Debug\net5.0\Project.Api.Core.pdb

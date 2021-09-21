@@ -1,0 +1,15 @@
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\Project.Application.deps.json
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\Project.Application.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\ref\Project.Application.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\Project.Application.pdb
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\Project.Domain.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\bin\Debug\net5.0\Project.Domain.pdb
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.csproj.AssemblyReference.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfoInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfo.cs
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CoreCompileInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CopyComplete
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\ref\Project.Application.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Application\obj\Debug\net5.0\Project.Application.pdb

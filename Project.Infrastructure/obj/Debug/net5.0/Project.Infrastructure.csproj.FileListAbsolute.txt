@@ -1,0 +1,12 @@
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\bin\Debug\net5.0\Project.Infrastructure.deps.json
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\bin\Debug\net5.0\Project.Infrastructure.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\bin\Debug\net5.0\ref\Project.Infrastructure.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\bin\Debug\net5.0\Project.Infrastructure.pdb
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.csproj.AssemblyReference.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.AssemblyInfoInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.AssemblyInfo.cs
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\ref\Project.Infrastructure.dll
+D:\Practice\SourceCode\NetCore\2021-09\Project.Api\Project.Infrastructure\obj\Debug\net5.0\Project.Infrastructure.pdb
